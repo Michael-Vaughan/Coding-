@@ -1,0 +1,6 @@
+body {
+	background-image: url("miners.jpg");
+	background-image: stretch;
+	/*background-image: attach;*/
+	/*	background-color: blue;*/
+}
